@@ -1,2 +1,2 @@
-# Simple-program-in-C-
+# Simple-program-in-C#
 First program in C#
